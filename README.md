@@ -9,8 +9,6 @@ Credits to headsoft_mikhail. (You're welcome to tell me, how to make a link out 
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/maetzi87/weather-chart-card?style=flat-square)](https://github.com/maetzi/weather-chart-card/releases/latest)
-![GitHub downloads](https://img.shields.io/github/downloads/maetzi/weather-chart-card/total?style=flat-square)
-![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads/maetzi87/weather-chart-card/latest/total)
 
 ## Installation
 
