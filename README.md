@@ -2,8 +2,10 @@
 
 # Original no Longer Maintained
 Thats why I try to modify it myself. No guarantees for now, repository is in Beta-State.
+
 The only change for now is that I added the ability to hide the UV-index, since I didn't want it. I don't know much about programming, I simply implemented the commit of headsoft_mikhail. 
-Credits to @headsoft_mikhail.
+
+Credits to headsoft_mikhail. (You're welcome to tell me, how to make a link out of his/her name)
 
 ## Installation
 
