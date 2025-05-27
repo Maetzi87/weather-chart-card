@@ -5,7 +5,7 @@ The original is no longer maintained, thats why I try to modify it myself. No gu
 
 The only change for now is that I added the ability to hide the UV-index, because it annoyed me. I don't know much about programming, I simply implemented the commit of headsoft_mikhail and it works for now.
 
-Credits to headsoft_mikhail and of course to mlamberts78 (You're welcome to tell me, how to make a link out of the names)
+Credits to headsoft_mikhail and of course to mlamberts78! (You're welcome to tell me, how to make a link out of the names)
 
 ![card with and without uv](https://github.com/Maetzi87/weather-chart-card/blob/master/examples/weather-chart-card%20with%20and%20without%20uv.PNG)
 
