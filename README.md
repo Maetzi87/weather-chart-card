@@ -11,8 +11,7 @@ Credits to headsoft_mikhail. (You're welcome to tell me, how to make a link out 
 
 ### HACS
 
-This card is available in HACS (Home Assistant Community Store).
-HACS is a third party community store and is not included in Home Assistant out of the box.
+You need to add this repository as custom_repository in HACS in order to add the Card. (Type = Dashboard)
 
 #### Configuration variables:
 
