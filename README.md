@@ -7,7 +7,7 @@ The only change for now is that I added the ability to hide the UV-index, becaus
 
 Credits to headsoft_mikhail. (You're welcome to tell me, how to make a link out of the name)
 
-![card with and without uv](https://github.com/Maetzi87/weather-chart-card/blob/master/weather-chart-card%20with%20and%20without%20uv.PNG)
+![card with and without uv](https://github.com/Maetzi87/weather-chart-card/blob/master/examples/weather-chart-card%20with%20and%20without%20uv.PNG)
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/maetzi87/weather-chart-card?style=flat-square)](https://github.com/maetzi/weather-chart-card/releases/latest)
