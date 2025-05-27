@@ -1,7 +1,7 @@
 <h1 align="center">Weather Chart Card</h1>
 
 # Original no Longer Maintained
-Thats why I try to modify it myself. No guarantees for now, repository is in Beta-State.
+Thats why I try to modify it myself. No guarantees, repository is in Beta-State.
 
 The only change for now is that I added the ability to hide the UV-index, since I didn't want it. I don't know much about programming, I simply implemented the commit of headsoft_mikhail and it works for now.
 
