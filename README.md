@@ -5,7 +5,7 @@ The original is no longer maintained, thats why I try to modify it myself. No gu
 
 The only change for now is that I added the ability to hide the UV-index, because it annoyed me. I don't know much about programming, I simply implemented the commit of headsoft_mikhail and it works for now.
 
-Credits to headsoft_mikhail. (You're welcome to tell me, how to make a link out of the name)
+Credits to headsoft_mikhail and of course to mlamberts78 (You're welcome to tell me, how to make a link out of the names)
 
 ![card with and without uv](https://github.com/Maetzi87/weather-chart-card/blob/master/examples/weather-chart-card%20with%20and%20without%20uv.PNG)
 
@@ -147,29 +147,35 @@ units:
   speed: m/s
 ```
 
-###### Supported languages:
-| Language         | Locale  |
-| ---------------- | ------- |
-| Bulgarian        | bg      |
-| Catalan          | ca      |
-| Czech            | cs      |
-| Danish           | da      |
-| Dutch            | nl      |
-| English          | en      |
-| Finnish          | fi      |
-| French           | fr      |
-| German           | de      |
-| Greek            | el      |
-| Hungarian        | hu      |
-| Italian          | it      |
-| Lithuanian       | lt      |
-| Norwegian        | no      |
-| Polish           | pl      |
-| Portuguese       | pt      |
-| Romanian         | ro      |
-| Russian          | ru      |
-| Slovak           | sk      |
-| Spanish          | es      |
-| Swedish          | sv      |
-| Ukrainian        | uk      |
-| 한국어           | ko      |
+###### Personal example using card-mod and animated background
+![card_mod](https://github.com/Maetzi87/weather-chart-card/blob/master/examples/personal_version.PNG)
+```yaml
+type: custom:weather-chart-card
+entity: weather.my_home
+show_main: false
+forecast:
+  precipitation_type: ""
+  type: hourly
+  style: style2
+  show_wind_forecast: false
+  chart_height: "150"
+  number_of_forecasts: "8"
+units:
+  pressure: ""
+  speed: km/h
+locale: de
+icon_style: style1
+show_temperature: false
+show_current_condition: false
+show_uv: false
+card_mod:
+  style: |
+    ha-card {
+      --ha-card-background: rgba(255,255,255,0.8);
+      --ha-card-border-width: 0px;
+      border-radius: 10px; --primary-text-color: #4863A0;
+    }
+```
+
+###### Languages:
+For supported languages see original Readme: https://github.com/mlamberts78/weather-chart-card
