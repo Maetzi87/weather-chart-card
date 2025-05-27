@@ -3,7 +3,7 @@
 # Original + Ability to hide UV
 The original is no longer maintained, thats why I try to modify it myself. No guarantees, repository is in Beta-State since this is my first try of forking something.
 
-The only change for now is that I added the ability to hide the UV-index, since it annoyed me. I don't know much about programming, I simply implemented the commit of headsoft_mikhail and it works for now.
+The only change for now is that I added the ability to hide the UV-index, because it annoyed me. I don't know much about programming, I simply implemented the commit of headsoft_mikhail and it works for now.
 
 Credits to headsoft_mikhail. (You're welcome to tell me, how to make a link out of the name)
 
