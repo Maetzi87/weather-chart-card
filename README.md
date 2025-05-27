@@ -173,7 +173,8 @@ card_mod:
     ha-card {
       --ha-card-background: rgba(255,255,255,0.8);
       --ha-card-border-width: 0px;
-      border-radius: 10px; --primary-text-color: #4863A0;
+      border-radius: 10px;
+      --primary-text-color: #4863A0;
     }
 ```
 
