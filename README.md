@@ -68,7 +68,7 @@ You need to add this repository as custom repository in HACS in order to add the
 | day_date_size         | number  | 15                       | The size of the current day and date in pixels.                                                    |
 | forecast              | object  | none                     | See [forecast options](#forecast-options) for available options.                                   |
 | units                 | object  | none                     | See [units of measurement](#units-of-measurement) for available options.                           |
-| locale                | string  | none                     | See [Supported languages](#Supported-languages) for available languages                            |
+| locale                | string  | none                     | See [Original Readme](#https://github.com/mlamberts78/weather-chart-card) for available languages                            |
 | autoscroll            | boolean | false                    | Update the chart each hour, hiding prior forecast datapoints                                       |
 
 ##### Forecast options
